@@ -1,0 +1,9 @@
+yapı:
+
+  liman işçisi:
+
+      işçi: /whatsasena/Dockerfile
+
+koşmak:
+
+   işçi : npm temel
